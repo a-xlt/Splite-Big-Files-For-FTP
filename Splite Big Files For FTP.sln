@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Splite Big Files For FTP", "Splite Big Files For FTP.csproj", "{12FED7D3-1CFD-4779-8D07-EF4228805035}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12FED7D3-1CFD-4779-8D07-EF4228805035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12FED7D3-1CFD-4779-8D07-EF4228805035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12FED7D3-1CFD-4779-8D07-EF4228805035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12FED7D3-1CFD-4779-8D07-EF4228805035}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {419ED643-8021-4D0A-AA98-8333EF048720}
+	EndGlobalSection
+EndGlobal
